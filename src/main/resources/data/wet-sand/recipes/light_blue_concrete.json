@@ -1,0 +1,70 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "concrete",
+  "ingredients": [
+    {
+      "item": "minecraft:light_blue_dye"
+    },
+    {
+      "item": "minecraft:gravel"
+    },
+    {
+      "item": "minecraft:gravel"
+    },
+    {
+      "item": "minecraft:gravel"
+    },
+    {
+      "item": "minecraft:gravel"
+    },
+    [
+      {
+        "item": "wet-sand:moist_sand"
+      },
+      {
+        "item": "wet-sand:wet_sand"
+      },
+      {
+        "item": "wet-sand:soaked_sand"
+      }
+    ],
+    [
+      {
+        "item": "wet-sand:moist_sand"
+      },
+      {
+        "item": "wet-sand:wet_sand"
+      },
+      {
+        "item": "wet-sand:soaked_sand"
+      }
+    ],
+    [
+      {
+        "item": "wet-sand:moist_sand"
+      },
+      {
+        "item": "wet-sand:wet_sand"
+      },
+      {
+        "item": "wet-sand:soaked_sand"
+      }
+    ],
+    [
+      {
+        "item": "wet-sand:moist_sand"
+      },
+      {
+        "item": "wet-sand:wet_sand"
+      },
+      {
+        "item": "wet-sand:soaked_sand"
+      }
+    ]
+  ],
+  "result": {
+    "item": "minecraft:light_blue_concrete",
+    "count": 8
+  }
+}

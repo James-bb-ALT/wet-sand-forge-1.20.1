@@ -1,0 +1,25 @@
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Minecraft / Forge runs
+run/
+.mixin.out/
+logs/
+
+# IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+.eclipse/
+.settings/
+.classpath
+.project
+bin/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
